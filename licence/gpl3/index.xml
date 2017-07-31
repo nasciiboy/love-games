@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gpl3 on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/licence/gpl3/</link>
+    <description>Recent content in Gpl3 on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:54 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/licence/gpl3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Your Face City Trains</title>
+      <link>https://nasciiboy.github.io/love-games/vg/in-your-face-city-trains/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:54 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/in-your-face-city-trains/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/iyfct.git  </description>
+    </item>
+    
+    <item>
+      <title>SpaceBlocks</title>
+      <link>https://nasciiboy.github.io/love-games/vg/spaceblocks/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:44 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/spaceblocks/</guid>
+      <description> clone git clone https://github.com/son-link/SpaceBlocks.git  </description>
+    </item>
+    
+    <item>
+      <title>Nova Pinball</title>
+      <link>https://nasciiboy.github.io/love-games/vg/nova-pinball/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:25 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/nova-pinball/</guid>
+      <description> clone git clone --recursive https://github.com/wesleywerner/nova-pinball.git  </description>
+    </item>
+    
+    <item>
+      <title>mari0</title>
+      <link>https://nasciiboy.github.io/love-games/vg/mari0/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:17 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/mari0/</guid>
+      <description> clone git clone https://github.com/Stabyourself/mari0.git  </description>
+    </item>
+    
+    <item>
+      <title>Grav</title>
+      <link>https://nasciiboy.github.io/love-games/vg/grav/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:02 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/grav/</guid>
+      <description> clone git clone https://github.com/Nuthen/Grav.git  </description>
+    </item>
+    
+    <item>
+      <title>EntroPipes</title>
+      <link>https://nasciiboy.github.io/love-games/vg/entropipes/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:59 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/entropipes/</guid>
+      <description> clone git clone https://github.com/son-link/EntroPipes.git  </description>
+    </item>
+    
+  </channel>
+</rss>

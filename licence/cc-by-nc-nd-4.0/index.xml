@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cc By Nc Nd 4.0 on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/licence/cc-by-nc-nd-4.0/</link>
+    <description>Recent content in Cc By Nc Nd 4.0 on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:26:57 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/licence/cc-by-nc-nd-4.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Duck Marines</title>
+      <link>https://nasciiboy.github.io/love-games/vg/duck-marines/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:57 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/duck-marines/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/duckmarines.git  </description>
+    </item>
+    
+  </channel>
+</rss>

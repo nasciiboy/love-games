@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mit on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/licence/mit/</link>
+    <description>Recent content in Mit on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:55 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/licence/mit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Witch of the Grove</title>
+      <link>https://nasciiboy.github.io/love-games/vg/witch-of-the-grove/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:55 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/witch-of-the-grove/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/wotg.git  </description>
+    </item>
+    
+    <item>
+      <title>Super Shooter</title>
+      <link>https://nasciiboy.github.io/love-games/vg/super-shooter/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:47 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/super-shooter/</guid>
+      <description> clone git clone https://github.com/camchenry/super_shooter.git  </description>
+    </item>
+    
+    <item>
+      <title>RocketBox</title>
+      <link>https://nasciiboy.github.io/love-games/vg/rocketbox/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:38 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/rocketbox/</guid>
+      <description> clone git clone https://github.com/Beezlebub/RocketBox.git  </description>
+    </item>
+    
+    <item>
+      <title>LUA Tower Defense</title>
+      <link>https://nasciiboy.github.io/love-games/vg/lua-tower-defense/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:16 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/lua-tower-defense/</guid>
+      <description> clone git clone https://github.com/tobspr/LUATowerDefense.git  </description>
+    </item>
+    
+    <item>
+      <title>logivi</title>
+      <link>https://nasciiboy.github.io/love-games/vg/logivi/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:10 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/logivi/</guid>
+      <description> clone git clone https://github.com/rm-code/logivi.git  </description>
+    </item>
+    
+    <item>
+      <title>Journey to the Center of Hawkthorne</title>
+      <link>https://nasciiboy.github.io/love-games/vg/journey-to-the-center-of-hawkthorne/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:08 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/journey-to-the-center-of-hawkthorne/</guid>
+      <description> clone git clone https://github.com/hawkthorne/hawkthorne-journey.git  </description>
+    </item>
+    
+    <item>
+      <title>Impoverished Starfighter</title>
+      <link>https://nasciiboy.github.io/love-games/vg/impoverished-starfighter/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:06 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/impoverished-starfighter/</guid>
+      <description> clone git clone https://github.com/tinydanbo/Impoverished-Starfighter.git  </description>
+    </item>
+    
+    <item>
+      <title>Burrow Down</title>
+      <link>https://nasciiboy.github.io/love-games/vg/burrow-down/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:51 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/burrow-down/</guid>
+      <description> clone git clone https://github.com/tinydanbo/Burrow-Down.git  </description>
+    </item>
+    
+  </channel>
+</rss>

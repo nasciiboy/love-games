@@ -193,13 +193,121 @@
   </url>
   
   <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.10.0/</loc>
+    <lastmod>2017-07-25T01:27:55-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.10.1/</loc>
+    <lastmod>2017-07-25T01:27:16-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.10.2/</loc>
+    <lastmod>2017-07-25T01:27:34-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.7.2/</loc>
+    <lastmod>2017-07-25T01:27:23-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.8.0/</loc>
+    <lastmod>2017-07-25T01:27:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.9.0/</loc>
+    <lastmod>2017-07-25T01:27:44-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.9.1/</loc>
+    <lastmod>2017-07-25T01:27:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/0.9.2/</loc>
+    <lastmod>2017-07-25T01:28:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nasciiboy.github.io/love-games/tags/arcade/</loc>
     <lastmod>2017-07-25T01:28:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/bsd-2/</loc>
+    <lastmod>2017-07-25T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nasciiboy.github.io/love-games/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-3.0/</loc>
+    <lastmod>2017-07-25T01:27:40-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-4.0/</loc>
+    <lastmod>2017-07-25T01:27:55-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-nc-3.0/</loc>
+    <lastmod>2017-07-25T01:27:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-nc-nd-3.0/</loc>
+    <lastmod>2017-07-25T01:27:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-nc-nd-4.0/</loc>
+    <lastmod>2017-07-25T01:26:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-nc-sa-3.0/</loc>
+    <lastmod>2017-07-25T01:27:55-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-nc-sa-4.0/</loc>
+    <lastmod>2017-07-25T01:27:53-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-sa-3.0/</loc>
+    <lastmod>2017-07-25T01:27:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/cc-by-sa-4.0/</loc>
+    <lastmod>2017-07-25T01:26:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -222,8 +330,32 @@
   </url>
   
   <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/gpl3/</loc>
+    <lastmod>2017-07-25T01:27:54-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/</loc>
+    <lastmod>2017-07-25T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/lover/</loc>
+    <lastmod>2017-07-25T01:27:55-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nasciiboy.github.io/love-games/tags/maze/</loc>
     <lastmod>2017-07-25T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/mit/</loc>
+    <lastmod>2017-07-25T01:27:55-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -288,8 +420,26 @@
   </url>
   
   <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/unknown/</loc>
+    <lastmod>2017-07-25T01:28:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nasciiboy.github.io/love-games/vg/</loc>
     <lastmod>2017-07-25T01:28:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/wtfpl/</loc>
+    <lastmod>2017-07-25T01:27:51-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nasciiboy.github.io/love-games/licence/zlib/</loc>
+    <lastmod>2017-07-25T01:27:46-05:00</lastmod>
     <priority>0</priority>
   </url>
   

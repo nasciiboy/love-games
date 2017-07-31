@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0.9.0 on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/lover/0.9.0/</link>
+    <description>Recent content in 0.9.0 on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:44 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/lover/0.9.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SpaceBlocks</title>
+      <link>https://nasciiboy.github.io/love-games/vg/spaceblocks/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:44 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/spaceblocks/</guid>
+      <description> clone git clone https://github.com/son-link/SpaceBlocks.git  </description>
+    </item>
+    
+    <item>
+      <title>panel attack</title>
+      <link>https://nasciiboy.github.io/love-games/vg/panel-attack/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:32 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/panel-attack/</guid>
+      <description> clone git clone https://github.com/sharpobject/panel-attack.git  </description>
+    </item>
+    
+    <item>
+      <title>logivi</title>
+      <link>https://nasciiboy.github.io/love-games/vg/logivi/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:10 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/logivi/</guid>
+      <description> clone git clone https://github.com/rm-code/logivi.git  </description>
+    </item>
+    
+    <item>
+      <title>Impoverished Starfighter</title>
+      <link>https://nasciiboy.github.io/love-games/vg/impoverished-starfighter/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:06 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/impoverished-starfighter/</guid>
+      <description> clone git clone https://github.com/tinydanbo/Impoverished-Starfighter.git  </description>
+    </item>
+    
+    <item>
+      <title>EntroPipes</title>
+      <link>https://nasciiboy.github.io/love-games/vg/entropipes/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:59 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/entropipes/</guid>
+      <description> clone git clone https://github.com/son-link/EntroPipes.git  </description>
+    </item>
+    
+    <item>
+      <title>Duck Marines</title>
+      <link>https://nasciiboy.github.io/love-games/vg/duck-marines/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:57 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/duck-marines/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/duckmarines.git  </description>
+    </item>
+    
+    <item>
+      <title>Colums clone</title>
+      <link>https://nasciiboy.github.io/love-games/vg/colums-clone/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:55 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/colums-clone/</guid>
+      <description> clone git clone https://github.com/Xkeeper0/columns-clone.git  </description>
+    </item>
+    
+  </channel>
+</rss>

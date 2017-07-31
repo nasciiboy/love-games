@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cc By Sa 3.0 on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/licence/cc-by-sa-3.0/</link>
+    <description>Recent content in Cc By Sa 3.0 on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:19 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/licence/cc-by-sa-3.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mr. Rescue</title>
+      <link>https://nasciiboy.github.io/love-games/vg/mr.-rescue/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:19 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/mr.-rescue/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/mrrescue.git  </description>
+    </item>
+    
+  </channel>
+</rss>

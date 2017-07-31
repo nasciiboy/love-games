@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0.9.2 on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/lover/0.9.2/</link>
+    <description>Recent content in 0.9.2 on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:28:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/lover/0.9.2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>trickparade</title>
+      <link>https://nasciiboy.github.io/love-games/vg/trickparade/</link>
+      <pubDate>Tue, 25 Jul 2017 01:28:00 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/trickparade/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/trickparade.git  </description>
+    </item>
+    
+    <item>
+      <title>Turtle Invaders</title>
+      <link>https://nasciiboy.github.io/love-games/vg/turtle-invaders/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:53 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/turtle-invaders/</guid>
+      <description> clone git clone https://github.com/TurtleP/Turtle_Invaders.git  </description>
+    </item>
+    
+    <item>
+      <title>Safety Blanket</title>
+      <link>https://nasciiboy.github.io/love-games/vg/safety-blanket/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:40 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/safety-blanket/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/safetyblanket.git  </description>
+    </item>
+    
+    <item>
+      <title>RocketBox</title>
+      <link>https://nasciiboy.github.io/love-games/vg/rocketbox/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:38 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/rocketbox/</guid>
+      <description> clone git clone https://github.com/Beezlebub/RocketBox.git  </description>
+    </item>
+    
+    <item>
+      <title>orthorobot</title>
+      <link>https://nasciiboy.github.io/love-games/vg/orthorobot/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:28 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/orthorobot/</guid>
+      <description> clone git clone https://github.com/Stabyourself/orthorobot.git  </description>
+    </item>
+    
+    <item>
+      <title>Hyperplasm</title>
+      <link>https://nasciiboy.github.io/love-games/vg/hyperplasm/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:04 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/hyperplasm/</guid>
+      <description> clone </description>
+    </item>
+    
+    <item>
+      <title>Grav</title>
+      <link>https://nasciiboy.github.io/love-games/vg/grav/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:02 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/grav/</guid>
+      <description> clone git clone https://github.com/Nuthen/Grav.git  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0.10.2 on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/lover/0.10.2/</link>
+    <description>Recent content in 0.10.2 on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:34 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/lover/0.10.2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rakshasa</title>
+      <link>https://nasciiboy.github.io/love-games/vg/rakshasa/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:34 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/rakshasa/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/rakshasa.git  </description>
+    </item>
+    
+    <item>
+      <title>mari0</title>
+      <link>https://nasciiboy.github.io/love-games/vg/mari0/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:17 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/mari0/</guid>
+      <description> clone git clone https://github.com/Stabyourself/mari0.git  </description>
+    </item>
+    
+    <item>
+      <title>anput</title>
+      <link>https://nasciiboy.github.io/love-games/vg/anput/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:49 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/anput/</guid>
+      <description> clone git clone https://github.com/andmatand/anput.git  </description>
+    </item>
+    
+  </channel>
+</rss>

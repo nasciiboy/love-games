@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wtfpl on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/licence/wtfpl/</link>
+    <description>Recent content in Wtfpl on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:51 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/licence/wtfpl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>trosh</title>
+      <link>https://nasciiboy.github.io/love-games/vg/trosh/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:51 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/trosh/</guid>
+      <description> clone git clone https://github.com/Stabyourself/trosh.git  </description>
+    </item>
+    
+    <item>
+      <title>orthorobot</title>
+      <link>https://nasciiboy.github.io/love-games/vg/orthorobot/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:28 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/orthorobot/</guid>
+      <description> clone git clone https://github.com/Stabyourself/orthorobot.git  </description>
+    </item>
+    
+    <item>
+      <title>Order of Twilight</title>
+      <link>https://nasciiboy.github.io/love-games/vg/order-of-twilight/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:26 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/order-of-twilight/</guid>
+      <description> clone git clone https://github.com/Stabyourself/orderoftwilight.git  </description>
+    </item>
+    
+    <item>
+      <title>nottetris2</title>
+      <link>https://nasciiboy.github.io/love-games/vg/nottetris2/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:23 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/nottetris2/</guid>
+      <description> clone git clone https://github.com/Stabyourself/nottetris2.git  </description>
+    </item>
+    
+    <item>
+      <title>notpacman</title>
+      <link>https://nasciiboy.github.io/love-games/vg/notpacman/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:21 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/notpacman/</guid>
+      <description> clone git clone https://github.com/Stabyourself/notpacman.git  </description>
+    </item>
+    
+  </channel>
+</rss>

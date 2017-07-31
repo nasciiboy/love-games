@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cc By Nc 3.0 on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/licence/cc-by-nc-3.0/</link>
+    <description>Recent content in Cc By Nc 3.0 on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:42 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/licence/cc-by-nc-3.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sienna</title>
+      <link>https://nasciiboy.github.io/love-games/vg/sienna/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:42 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/sienna/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/sienna.git  </description>
+    </item>
+    
+    <item>
+      <title>Journey to the Center of Hawkthorne</title>
+      <link>https://nasciiboy.github.io/love-games/vg/journey-to-the-center-of-hawkthorne/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:08 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/journey-to-the-center-of-hawkthorne/</guid>
+      <description> clone git clone https://github.com/hawkthorne/hawkthorne-journey.git  </description>
+    </item>
+    
+  </channel>
+</rss>
