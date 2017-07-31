@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vgs on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/vg/</link>
+    <description>Recent content in Vgs on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:28:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/vg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>trickparade</title>
+      <link>https://nasciiboy.github.io/love-games/vg/trickparade/</link>
+      <pubDate>Tue, 25 Jul 2017 01:28:00 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/trickparade/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/trickparade.git  </description>
+    </item>
+    
+    <item>
+      <title>Witch of the Grove</title>
+      <link>https://nasciiboy.github.io/love-games/vg/witch-of-the-grove/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:55 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/witch-of-the-grove/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/wotg.git  </description>
+    </item>
+    
+    <item>
+      <title>In Your Face City Trains</title>
+      <link>https://nasciiboy.github.io/love-games/vg/in-your-face-city-trains/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:54 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/in-your-face-city-trains/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/iyfct.git  </description>
+    </item>
+    
+    <item>
+      <title>Turtle Invaders</title>
+      <link>https://nasciiboy.github.io/love-games/vg/turtle-invaders/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:53 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/turtle-invaders/</guid>
+      <description> clone git clone https://github.com/TurtleP/Turtle_Invaders.git  </description>
+    </item>
+    
+    <item>
+      <title>trosh</title>
+      <link>https://nasciiboy.github.io/love-games/vg/trosh/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:51 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/trosh/</guid>
+      <description> clone git clone https://github.com/Stabyourself/trosh.git  </description>
+    </item>
+    
+    <item>
+      <title>The Legend of Zelda - Oracle of Colors</title>
+      <link>https://nasciiboy.github.io/love-games/vg/the-legend-of-zelda---oracle-of-colors/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:49 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/the-legend-of-zelda---oracle-of-colors/</guid>
+      <description> clone git clone https://github.com/superzazu/zelda-ooc.git  </description>
+    </item>
+    
+    <item>
+      <title>Super Shooter</title>
+      <link>https://nasciiboy.github.io/love-games/vg/super-shooter/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:47 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/super-shooter/</guid>
+      <description> clone git clone https://github.com/camchenry/super_shooter.git  </description>
+    </item>
+    
+    <item>
+      <title>splashes</title>
+      <link>https://nasciiboy.github.io/love-games/vg/splashes/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:46 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/splashes/</guid>
+      <description> clone git clone https://github.com/love2d-community/splashes.git  </description>
+    </item>
+    
+    <item>
+      <title>SpaceBlocks</title>
+      <link>https://nasciiboy.github.io/love-games/vg/spaceblocks/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:44 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/spaceblocks/</guid>
+      <description> clone git clone https://github.com/son-link/SpaceBlocks.git  </description>
+    </item>
+    
+    <item>
+      <title>Sienna</title>
+      <link>https://nasciiboy.github.io/love-games/vg/sienna/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:42 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/sienna/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/sienna.git  </description>
+    </item>
+    
+    <item>
+      <title>Safety Blanket</title>
+      <link>https://nasciiboy.github.io/love-games/vg/safety-blanket/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:40 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/safety-blanket/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/safetyblanket.git  </description>
+    </item>
+    
+    <item>
+      <title>RocketBox</title>
+      <link>https://nasciiboy.github.io/love-games/vg/rocketbox/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:38 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/rocketbox/</guid>
+      <description> clone git clone https://github.com/Beezlebub/RocketBox.git  </description>
+    </item>
+    
+    <item>
+      <title>Red Entity</title>
+      <link>https://nasciiboy.github.io/love-games/vg/red-entity/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:36 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/red-entity/</guid>
+      <description> clone git clone https://github.com/tinydanbo/Ludum-Dare-30.git  </description>
+    </item>
+    
+    <item>
+      <title>Rakshasa</title>
+      <link>https://nasciiboy.github.io/love-games/vg/rakshasa/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:34 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/rakshasa/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/rakshasa.git  </description>
+    </item>
+    
+    <item>
+      <title>panel attack</title>
+      <link>https://nasciiboy.github.io/love-games/vg/panel-attack/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:32 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/panel-attack/</guid>
+      <description> clone git clone https://github.com/sharpobject/panel-attack.git  </description>
+    </item>
+    
+  </channel>
+</rss>

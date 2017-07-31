@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/tags/</link>
+    <description>Recent content in Tags on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:28:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arcade</title>
+      <link>https://nasciiboy.github.io/love-games/tags/arcade/</link>
+      <pubDate>Tue, 25 Jul 2017 01:28:00 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/arcade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://nasciiboy.github.io/love-games/tags/example/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:46 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://nasciiboy.github.io/love-games/tags/git/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:10 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maze</title>
+      <link>https://nasciiboy.github.io/love-games/tags/maze/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:49 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/maze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>https://nasciiboy.github.io/love-games/tags/physics/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:38 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platformer</title>
+      <link>https://nasciiboy.github.io/love-games/tags/platformer/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:42 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/platformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procedural</title>
+      <link>https://nasciiboy.github.io/love-games/tags/procedural/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:49 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/procedural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puzzle</title>
+      <link>https://nasciiboy.github.io/love-games/tags/puzzle/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:44 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/puzzle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rpg</title>
+      <link>https://nasciiboy.github.io/love-games/tags/rpg/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:49 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/rpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shooter</title>
+      <link>https://nasciiboy.github.io/love-games/tags/shooter/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:53 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/shooter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>https://nasciiboy.github.io/love-games/tags/tool/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:10 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tower Defense</title>
+      <link>https://nasciiboy.github.io/love-games/tags/tower-defense/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:16 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/tags/tower-defense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

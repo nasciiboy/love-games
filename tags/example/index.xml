@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/tags/example/</link>
+    <description>Recent content in Example on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:46 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>splashes</title>
+      <link>https://nasciiboy.github.io/love-games/vg/splashes/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:46 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/splashes/</guid>
+      <description> clone git clone https://github.com/love2d-community/splashes.git  </description>
+    </item>
+    
+    <item>
+      <title>LOVE Example Browser</title>
+      <link>https://nasciiboy.github.io/love-games/vg/love-example-browser/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:14 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/love-example-browser/</guid>
+      <description> clone git clone https://github.com/love2d-community/LOVE-Example-Browser.git  </description>
+    </item>
+    
+    <item>
+      <title>love-demos</title>
+      <link>https://nasciiboy.github.io/love-games/vg/love-demos/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:12 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/love-demos/</guid>
+      <description> clone git clone https://bitbucket.org/rude/love/downloads/love-demos-0.8.0.git  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arcade on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/tags/arcade/</link>
+    <description>Recent content in Arcade on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:28:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/tags/arcade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>trickparade</title>
+      <link>https://nasciiboy.github.io/love-games/vg/trickparade/</link>
+      <pubDate>Tue, 25 Jul 2017 01:28:00 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/trickparade/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/trickparade.git  </description>
+    </item>
+    
+    <item>
+      <title>Witch of the Grove</title>
+      <link>https://nasciiboy.github.io/love-games/vg/witch-of-the-grove/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:55 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/witch-of-the-grove/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/wotg.git  </description>
+    </item>
+    
+    <item>
+      <title>In Your Face City Trains</title>
+      <link>https://nasciiboy.github.io/love-games/vg/in-your-face-city-trains/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:54 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/in-your-face-city-trains/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/iyfct.git  </description>
+    </item>
+    
+    <item>
+      <title>trosh</title>
+      <link>https://nasciiboy.github.io/love-games/vg/trosh/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:51 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/trosh/</guid>
+      <description> clone git clone https://github.com/Stabyourself/trosh.git  </description>
+    </item>
+    
+    <item>
+      <title>Red Entity</title>
+      <link>https://nasciiboy.github.io/love-games/vg/red-entity/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:36 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/red-entity/</guid>
+      <description> clone git clone https://github.com/tinydanbo/Ludum-Dare-30.git  </description>
+    </item>
+    
+    <item>
+      <title>Nova Pinball</title>
+      <link>https://nasciiboy.github.io/love-games/vg/nova-pinball/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:25 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/nova-pinball/</guid>
+      <description> clone git clone --recursive https://github.com/wesleywerner/nova-pinball.git  </description>
+    </item>
+    
+    <item>
+      <title>notpacman</title>
+      <link>https://nasciiboy.github.io/love-games/vg/notpacman/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:21 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/notpacman/</guid>
+      <description> clone git clone https://github.com/Stabyourself/notpacman.git  </description>
+    </item>
+    
+    <item>
+      <title>Mr. Rescue</title>
+      <link>https://nasciiboy.github.io/love-games/vg/mr.-rescue/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:19 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/mr.-rescue/</guid>
+      <description> clone git clone https://github.com/SimonLarsen/mrrescue.git  </description>
+    </item>
+    
+    <item>
+      <title>Burrow Down</title>
+      <link>https://nasciiboy.github.io/love-games/vg/burrow-down/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:51 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/burrow-down/</guid>
+      <description> clone git clone https://github.com/tinydanbo/Burrow-Down.git  </description>
+    </item>
+    
+    <item>
+      <title>90 Second Portraits</title>
+      <link>https://nasciiboy.github.io/love-games/vg/90-second-portraits/</link>
+      <pubDate>Tue, 25 Jul 2017 01:26:45 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/90-second-portraits/</guid>
+      <description> clone git clone --recursive https://github.com/SimonLarsen/rakshasa.git  </description>
+    </item>
+    
+  </channel>
+</rss>

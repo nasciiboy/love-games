@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/post/</link>
+    <description>Recent content in Posts on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jul 2017 18:54:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hola Mundo</title>
+      <link>https://nasciiboy.github.io/love-games/post/hola-mundo/</link>
+      <pubDate>Thu, 27 Jul 2017 18:54:03 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/post/hola-mundo/</guid>
+      <description>Hola, el proposito principal de este sitio es recopilar enlaces a juegos realizados con love2d siempre y cuando sirvan como material de aprendisaje, lo que obliga a que tengan lincencias floss (Free/Libre/Open Source Software)
+Ademas en la seccion blog, encontraras documentacion en españøl e ingles sobre love2d
+El codigo fuente de este material se encuentra bajo la licencia AGPL v3, alojado en github en la direccion https://github.com/nasciiboy/love-games-src/ y como pagina web en https://love-games.</description>
+    </item>
+    
+  </channel>
+</rss>

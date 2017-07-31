@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rpg on Love Games</title>
+    <link>https://nasciiboy.github.io/love-games/tags/rpg/</link>
+    <description>Recent content in Rpg on Love Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 01:27:49 -0500</lastBuildDate>
+    
+	<atom:link href="https://nasciiboy.github.io/love-games/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Legend of Zelda - Oracle of Colors</title>
+      <link>https://nasciiboy.github.io/love-games/vg/the-legend-of-zelda---oracle-of-colors/</link>
+      <pubDate>Tue, 25 Jul 2017 01:27:49 -0500</pubDate>
+      
+      <guid>https://nasciiboy.github.io/love-games/vg/the-legend-of-zelda---oracle-of-colors/</guid>
+      <description> clone git clone https://github.com/superzazu/zelda-ooc.git  </description>
+    </item>
+    
+  </channel>
+</rss>
